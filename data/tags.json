@@ -131,7 +131,7 @@
       ],
       "color": "gray",
       "dimensions": "1918x919",
-      "last_analyzed": "2025-02-28T19:44:31.460100",
+      "last_analyzed": "2025-02-28T19:52:38.857565",
       "file_size": 2650949
     },
     "2024-09-26-173504_1913x920_scrot.png": {
@@ -180,7 +180,7 @@
       ],
       "color": "brown",
       "dimensions": "1913x920",
-      "last_analyzed": "2025-02-28T19:44:31.758050",
+      "last_analyzed": "2025-02-28T19:52:39.359147",
       "file_size": 2709314
     },
     "totem/totem.glb": {
@@ -302,7 +302,7 @@
       ],
       "color": "gray",
       "dimensions": "1431x992",
-      "last_analyzed": "2025-02-28T19:44:32.058324",
+      "last_analyzed": "2025-02-28T19:52:39.881530",
       "file_size": 3197494
     },
     "daniel_fspy.fspy.jpg": {
@@ -402,7 +402,7 @@
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-02-28T19:44:31.460674",
+      "last_analyzed": "2025-02-28T19:52:38.858394",
       "file_size": 3247384,
       "thumbnail": "heatmap/thumbnail.png"
     },
@@ -442,9 +442,45 @@
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-02-28T19:44:32.277288",
+      "last_analyzed": "2025-02-28T19:52:40.174754",
       "file_size": 1387512,
       "thumbnail": "New Folder/thumbnail.png"
+    },
+    "second/second.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "second",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "monkey",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "suzanne",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "february",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "second",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-02-28T19:52:40.174470",
+      "file_size": 3459064,
+      "thumbnail": "second/thumbnail.png"
     }
   }
 }
