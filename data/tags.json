@@ -131,7 +131,7 @@
       ],
       "color": "gray",
       "dimensions": "1918x919",
-      "last_analyzed": "2025-02-28T19:34:26.179196",
+      "last_analyzed": "2025-02-28T19:44:31.460100",
       "file_size": 2650949
     },
     "2024-09-26-173504_1913x920_scrot.png": {
@@ -180,7 +180,7 @@
       ],
       "color": "brown",
       "dimensions": "1913x920",
-      "last_analyzed": "2025-02-28T19:34:26.592625",
+      "last_analyzed": "2025-02-28T19:44:31.758050",
       "file_size": 2709314
     },
     "totem/totem.glb": {
@@ -302,7 +302,7 @@
       ],
       "color": "gray",
       "dimensions": "1431x992",
-      "last_analyzed": "2025-02-28T19:34:27.266592",
+      "last_analyzed": "2025-02-28T19:44:32.058324",
       "file_size": 3197494
     },
     "daniel_fspy.fspy.jpg": {
@@ -402,7 +402,7 @@
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-02-28T19:34:26.297331",
+      "last_analyzed": "2025-02-28T19:44:31.460674",
       "file_size": 3247384,
       "thumbnail": "heatmap/thumbnail.png"
     },
@@ -442,7 +442,7 @@
           "confidence": "100.00%"
         }
       ],
-      "last_analyzed": "2025-02-28T19:34:28.081360",
+      "last_analyzed": "2025-02-28T19:44:32.277288",
       "file_size": 1387512,
       "thumbnail": "New Folder/thumbnail.png"
     }
